@@ -1,6 +1,6 @@
 package pages;
 
-public class US1001 {
+public class Anasayfa {
 
 
 
